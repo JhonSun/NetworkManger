@@ -1,1 +1,1 @@
-# MRLatLng
+这是一个针对AFNetworking以及MKNetworking进行二次封装的工具类
